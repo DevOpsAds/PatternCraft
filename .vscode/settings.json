@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./creational/builder/restaurante/abstract_class",
+        "./creational/builder/restaurante/abstractClass"
+    ]
+}
